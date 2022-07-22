@@ -60,7 +60,7 @@ hangman = ['''
   =========''']
 
 answerlist = [
-"honda", "toyota", "ford", "chevrolet", "jeep", "lexus", "audi", "bmw", "nissan", "jaguar", "dodge", "volvo", "cadillac", "kia", "hyundai", "chrysler", "mercedes", "tesla", "porsche", "lincoln", "mazda"
+"dog", "cat", "girrafe", "elephant", "sheep", "horse", "cow", "crocodale", "snake", "jaguar", "lion", "tiger", "spider", "scorpion", "zebra", "falcon", "eagle", "frog", "shark", "seal", "whale"
            ]
 
 guess_word = []
