@@ -75,7 +75,7 @@ def beginning():
 beginning()
 
 def newFunc():
-    print("Ready or not...here we go!\n")
+    print("Get ready!!\n")
 
 newFunc()
 
