@@ -60,7 +60,7 @@ hangman = ['''
   =========''']
 
 answerlist = [
-"dog", "cat", "girrafe", "elephant", "sheep", "horse", "cow", "crocodale", "snake", "jaguar", "lion", "tiger", "spider", "scorpion", "zebra", "falcon", "eagle", "frog", "shark", "seal", "whale"
+"dog", "cat", "giraffe", "elephant", "sheep", "horse", "cow", "crocodale", "snake", "jaguar", "lion", "tiger", "spider", "scorpion", "zebra", "falcon", "eagle", "frog", "shark", "seal", "whale"
            ]
 
 guess_word = []
@@ -75,7 +75,7 @@ def beginning():
 beginning()
 
 def newFunc():
-    print("Ready or not...here we go!\n")
+    print("Get ready!!\n")
 
 newFunc()
 
